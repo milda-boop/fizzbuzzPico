@@ -18,3 +18,10 @@ Fizz buzz is a game designed for learning the 3 and 5 times tables.
 
 You lose if you press the wrong button, or take too long.
 Highscore is displayed at the bottom.
+
+# Links
+[Video of working application](https://youtu.be/jkEGKdg2x_M)
+
+![20240516_151612 1](https://github.com/milda-boop/fizzbuzzPico/assets/63972706/46083d46-75d5-422c-855d-65770e180fcc)
+
+
